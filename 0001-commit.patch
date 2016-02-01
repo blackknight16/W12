@@ -1,0 +1,19 @@
+From 8e47c25231c46a9c41fdb8e1364df90e9cedc703 Mon Sep 17 00:00:00 2001
+From: rrMulyukov <rrMulyukov@gmail.com>
+Date: Wed, 30 Dec 2015 18:51:32 +0500
+Subject: [PATCH 1/4] commit
+
+---
+ 10 | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/10 b/10
+index e69de29..d8263ee 100644
+--- a/10
++++ b/10
+@@ -0,0 +1 @@
++2
+\ No newline at end of file
+-- 
+2.6.4.windows.1
+

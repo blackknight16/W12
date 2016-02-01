@@ -1,0 +1,7 @@
+[imap]
+  folder = "[Gmail]/Drafts"
+  host = imaps://imap.gmail.com
+  user = rrMulyukovr@gmail.com
+  pass = WarCraft3
+  port = 993
+  sslverify = false

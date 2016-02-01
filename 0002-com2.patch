@@ -1,0 +1,21 @@
+From 6dfbd5dcd4d5b11a921829d4091fbe2ca1a37997 Mon Sep 17 00:00:00 2001
+From: rrMulyukov <rrMulyukov@gmail.com>
+Date: Wed, 30 Dec 2015 18:53:18 +0500
+Subject: [PATCH 2/4] com2
+
+---
+ 9 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/9 b/9
+index 3cacc0b..d800886 100644
+--- a/9
++++ b/9
+@@ -1 +1 @@
+-12
+\ No newline at end of file
++123
+\ No newline at end of file
+-- 
+2.6.4.windows.1
+
